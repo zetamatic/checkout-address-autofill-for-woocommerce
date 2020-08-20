@@ -1,0 +1,192 @@
+# Copyright (C) 2020 zetamatic
+# This file is distributed under the same license as the Checkout Address AutoFill For WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Checkout Address AutoFill For WooCommerce 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/checkout-address-autofill-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-08-18T12:30:56+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: checkout_address_autofill_for_woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "Checkout Address AutoFill For WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://zetamatic.com/?utm_src=checkout-address-autofill-for-woocommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin allows you to fill the checkout form automatically by using google's address autocomplete API."
+msgstr ""
+
+#. Author of the plugin
+msgid "zetamatic"
+msgstr ""
+
+#: checkout-address-autofill-for-woocommerce.php:63
+msgid "Glad to know that you are already using our "
+msgstr ""
+
+#: checkout-address-autofill-for-woocommerce.php:64
+msgid "Don't show this message again!"
+msgstr ""
+
+#: checkout-address-autofill-template.php:51
+msgid "Enter your ship address"
+msgstr ""
+
+#: checkout-address-autofill-template.php:74
+#: checkout-address-autofill-template.php:131
+msgid "Search to Autocomplete"
+msgstr ""
+
+#: checkout-address-autofill-template.php:108
+msgid "Enter your Billing address"
+msgstr ""
+
+#: checkout-address-autofill-template.php:226
+#: checkout-address-autofill-template.php:286
+msgid "Google Address Autocomplete for Woocommerce"
+msgstr ""
+
+#: checkout-address-autofill-template.php:226
+msgid "Google Autocomplete"
+msgstr ""
+
+#: checkout-address-autofill-template.php:296
+msgid "Enter Your Google API Key"
+msgstr ""
+
+#: checkout-address-autofill-template.php:299
+msgid "Get your google api key from here"
+msgstr ""
+
+#: checkout-address-autofill-template.php:305
+msgid "Billing Autocomplete Fields"
+msgstr ""
+
+#: checkout-address-autofill-template.php:313
+msgid "Enable for Billing"
+msgstr ""
+
+#: checkout-address-autofill-template.php:318
+#: checkout-address-autofill-template.php:390
+msgid "Enable autocomplete."
+msgstr ""
+
+#: checkout-address-autofill-template.php:325
+#: checkout-address-autofill-template.php:396
+msgid "Auto Complete Field Label"
+msgstr ""
+
+#: checkout-address-autofill-template.php:330
+#: checkout-address-autofill-template.php:401
+msgid "Enter the label of autocomplete field you want to show"
+msgstr ""
+
+#: checkout-address-autofill-template.php:337
+#: checkout-address-autofill-template.php:408
+msgid "Show Autofill Below Address"
+msgstr ""
+
+#: checkout-address-autofill-template.php:341
+#: checkout-address-autofill-template.php:412
+msgid "Check to show field below address. By default it is above address field"
+msgstr ""
+
+#: checkout-address-autofill-template.php:347
+msgid "Enable Location Picker for Billing"
+msgstr ""
+
+#: checkout-address-autofill-template.php:352
+#: checkout-address-autofill-template.php:423
+msgid "Enable Location Picker."
+msgstr ""
+
+#: checkout-address-autofill-template.php:360
+msgid "Allow Phone Number"
+msgstr ""
+
+#: checkout-address-autofill-template.php:364
+msgid "Check to autofill the Phone number field."
+msgstr ""
+
+#: checkout-address-autofill-template.php:369
+msgid "Allow Compay Name"
+msgstr ""
+
+#: checkout-address-autofill-template.php:372
+msgid "Check to autofill the Company Name field."
+msgstr ""
+
+#: checkout-address-autofill-template.php:379
+msgid "Shipping Autocomplete Fields"
+msgstr ""
+
+#: checkout-address-autofill-template.php:385
+msgid "Enable for Shipping"
+msgstr ""
+
+#: checkout-address-autofill-template.php:418
+msgid "Enable Location Picker for Shipping"
+msgstr ""
+
+#: checkout-address-autofill-template.php:431
+msgid "Enable Company Name Autofill"
+msgstr ""
+
+#: checkout-address-autofill-template.php:434
+msgid "Check to autofill the Compay name field."
+msgstr ""
+
+#: checkout-address-autofill-template.php:441
+msgid "Common fields for both Billing and Shipping Address"
+msgstr ""
+
+#: checkout-address-autofill-template.php:448
+msgid "Enable Use Current Location"
+msgstr ""
+
+#: checkout-address-autofill-template.php:451
+msgid "This option simply shows an option where user can use their current location easily"
+msgstr ""
+
+#: checkout-address-autofill-template.php:457
+msgid "Show Results From Country"
+msgstr ""
+
+#: checkout-address-autofill-template.php:491
+msgid "Upload Image For Location"
+msgstr ""
+
+#: checkout-address-autofill-template.php:503
+msgid "Location Image Size In px"
+msgstr ""
+
+#: checkout-address-autofill-template.php:506
+msgid "Height"
+msgstr ""
+
+#: checkout-address-autofill-template.php:511
+msgid "Width"
+msgstr ""
+
+#: checkout-address-autofill-template.php:519
+msgid "Enable Location Image Hover Effect"
+msgstr ""
+
+#: checkout-address-autofill-template.php:528
+msgid "Disable auto clearing default address values"
+msgstr ""
+
+#: checkout-address-autofill-template.php:532
+msgid "This plugin overwrites Woocommerce feature that keeps filled in address values on page refresh to blank them. If you want to disable this feature and keep Woocommerce default behavior please check this."
+msgstr ""

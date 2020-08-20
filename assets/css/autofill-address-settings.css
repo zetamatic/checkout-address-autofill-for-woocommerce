@@ -1,0 +1,22 @@
+form#checkout-address-autocomplete-form .description {
+	display: inline-block;
+	margin-left: 10px;
+}
+
+form#checkout-address-autocomplete-form input[type="text"] {
+	min-width: 330px;
+	height: 30px;
+}
+form#checkout-address-autocomplete-form .image_logo_upload.button {
+	position: relative;
+	top: -20px;
+	left: 10px;
+}
+form#checkout-address-autocomplete-form div.image-dimension-wrapper {
+	display: inline-block;
+	margin-right: 15px;
+}
+form#checkout-address-autocomplete-form div.image-dimension-wrapper input {
+	width: 70px;
+}
+form#checkout-address-autocomplete-form .select2-container {width: 70%;}
